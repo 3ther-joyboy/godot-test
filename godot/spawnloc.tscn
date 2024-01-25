@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://knnwq8q3al3f"]
+
+[ext_resource type="Script" path="res://spawnloc.cs" id="1_cod8b"]
+
+[node name="spawnloc" type="Node2D"]
+position = Vector2(600, -34)
+script = ExtResource("1_cod8b")
